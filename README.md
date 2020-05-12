@@ -1,3 +1,3 @@
 # NishantJadhav232.github.io
 
-IEEE-VIT BLOG website
+Just a trail web page
